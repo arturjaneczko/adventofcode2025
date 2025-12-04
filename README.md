@@ -5,7 +5,7 @@ https://adventofcode.com/2025
 
 | Day                                        |  1  |  2  |
 |--------------------------------------------|-----|-----|
-| [01](https://adventofcode.com/2025/day/1)  | :x: | :x: |
+| [01](https://adventofcode.com/2025/day/1)  | [:heavy_check_mark:](Dec01/dec01_1.cpp) | :x: |
 | [02](https://adventofcode.com/2025/day/2)  | :x: | :x: |
 | [03](https://adventofcode.com/2025/day/3)  | :x: | :x: |
 | [04](https://adventofcode.com/2025/day/4)  | :x: | :x: |
